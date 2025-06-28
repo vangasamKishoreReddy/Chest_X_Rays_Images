@@ -20,5 +20,36 @@ An interactive **Streamlit web application** for classifying chest X-ray images 
 
 ## 📦 Project Structure
 
+├── main.py # Main Streamlit app
+├── models/ # Model definition and weights
+│ └── best_model.pth
+├── data/
+│ ├── train/val/test/ # Processed .npy, .pkl and descriptors
+├── utils/ # Feature visualization (ORB, SIFT)
+├── outputs/ # GradCAM visualization image
+├── requirements.txt # Python dependencies
+└── README.md # You are here!
 
+## 📋 Requirements
+
+  Python 3.8+
+  torch
+  torchvision
+  numpy
+  matplotlib
+  scikit-learn
+  streamlit
+  opencv-python
+  seaborn
+  pandas
+  Pillow
+
+## Deployement
 streamlit run main.py
+
+## 📊 Results Snapshot
+
+  Test Accuracy: ~90%
+  AUC Score: 0.92+
+  F1-Score: 0.89
+  Grad-CAM explains why the model chose pneumonia/normal

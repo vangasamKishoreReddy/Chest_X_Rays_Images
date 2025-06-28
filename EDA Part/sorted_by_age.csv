@@ -1,0 +1,15 @@
+Finding Labels,Patient Age,Count
+Hernia,31,9
+Atelectasis,46,399
+Pleural_Thickening,51,132
+Fibrosis,52,74
+Cardiomegaly,54,125
+Consolidation,55,197
+Effusion,55,489
+Mass,55,219
+Pneumothorax,55,248
+Emphysema,56,108
+Nodule,56,267
+Infiltration,57,790
+Edema,58,90
+Pneumonia,58,57

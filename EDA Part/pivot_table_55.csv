@@ -1,0 +1,15 @@
+Finding Labels,F,M,Total
+Atelectasis,174.0,180.0,354.0
+Cardiomegaly,42.0,36.0,78.0
+Consolidation,79.0,118.0,197.0
+Edema,26.0,50.0,76.0
+Effusion,185.0,304.0,489.0
+Emphysema,28.0,37.0,65.0
+Fibrosis,34.0,39.0,73.0
+Hernia,3.0,6.0,9.0
+Infiltration,286.0,435.0,721.0
+Mass,100.0,119.0,219.0
+Nodule,115.0,114.0,229.0
+Pleural_Thickening,54.0,70.0,124.0
+Pneumonia,14.0,20.0,34.0
+Pneumothorax,100.0,148.0,248.0
